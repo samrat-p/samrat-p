@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samrat Mitra</h1>
+<h1 align="center">Hi ,👋 I'm Samrat Mitra</h1>
 <h3 align="center">Designing is supposed to be fun right!!!...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat-p&label=Profile%20views&color=0e75b6&style=flat" alt="samrat-p" /> </p>
