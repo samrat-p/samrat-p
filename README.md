@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Non-Adaptive Partial Image Encryption](https://github.com/samrat-p/Final-year-Project)
 
-- 🌱 I’m currently learning **Adobe Illustrator**
+- 🌱 I’m currently learning **HTML5,CSS,JS, using CSS Preprocessor (SAAS), Bootstrap5**
 
 - 📝 I regularly write articles on [https://samratuiux.wixsite.com/website](https://samratuiux.wixsite.com/website)
 
