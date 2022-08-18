@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mitra.stark.68@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F02luhSo8h8QvUWIeyc__qof3zYNsIjt/view?pli=1](https://drive.google.com/file/d/1F02luhSo8h8QvUWIeyc__qof3zYNsIjt/view?pli=1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/168z3zWAYIVwfBnpRCdzt2IO8ijWOdg1E/view?usp=sharing](https://drive.google.com/file/d/168z3zWAYIVwfBnpRCdzt2IO8ijWOdg1E/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
